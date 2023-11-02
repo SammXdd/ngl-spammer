@@ -1,5 +1,5 @@
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> NGL Insta Spammer With Python <img src="./assets/logo.gif" width="30px"></h1>
-<div align="center" width="40px"><img src="/assets/pic1.png"></div>
+![image](https://github.com/SammXdd/ngl-spammer/assets/pic1.png)
   
 # ✨ Fastest NGL Spammer Ever Exist
  > Made with the [**python**](https://docs.python.org/3/)
