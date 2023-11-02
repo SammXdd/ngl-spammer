@@ -10,14 +10,14 @@
 git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip install -r requirements.txt && python nglspam.py
 ```
 
-**For Linux & Termux **
+**For Linux & Termux**
 ```
 git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip3 install -r requirements.txt && python nglspam.py
 ```
  
 ## 💛 Features:
  
-  - Fastes NGL Spammer ever existed
+  - Fastest NGL Spammer ever existed
   - Unlimited Messages
   - Fast, Easy to use
   
