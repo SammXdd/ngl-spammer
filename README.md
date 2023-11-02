@@ -1,9 +1,5 @@
-# yoo supp!
- > [portfolio](https://sammx.tk/)
-
 <h1 align="center"><img src="./assets/logo.gif" width="30px"> NGL Insta Spammer With Python <img src="./assets/logo.gif" width="30px"></h1>
 <p align="center">
- > Pics Coming Soon
  <div align="center" width="60px"><img src="/assets/pic1.png"></div>
   
 # ✨ Fastest NGL Spammer Ever Exist
@@ -11,12 +7,12 @@
 
 **For Windows**
 ```
-git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip install -r requirements.txt && python main.py
+git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip install -r requirements.txt && python nglspam.py
 ```
 
 **For Linux & Termux **
 ```
-git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip3 install -r requirements.txt && python main.py
+git clone https://github.com/SammXdd/ngl-spammer/ && cd ngl-spammer && pip3 install -r requirements.txt && python nglspam.py
 ```
  
 ## 💛 Features:
